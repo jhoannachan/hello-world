@@ -1,2 +1,4 @@
 # hello-world
-Simple codes - new learner!
+Simple codes from a new learner!
+
+I'm currently learning Python and find it fascinating!
